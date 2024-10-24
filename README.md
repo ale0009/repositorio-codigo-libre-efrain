@@ -1,3 +1,3 @@
-# sb1-ht6yec
+# codigo libre repositiorio pagina
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/ale0009/sb1-ht6yec)
+(https://stackblitz.com/~/github.com/ale0009/sb1-ht6yec)
